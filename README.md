@@ -38,3 +38,12 @@ Environmental Information (NCEI)](https://www.ngdc.noaa.gov/hazel/view/hazards/e
 * Storybook presentation developed to summarise findings 
 
 ![](/images/Rector_scale_earthquakes_reduced.png)
+
+# [Project 5: Bike rentals](https://github.com/JasonHunt-DA/Bike_rentals)
+* [Bike rentals analysis for project](https://www.youtube.com/watch?hd=1&v=gywj5snvMpo&feature=youtu.be)
+* Investigation into bike rentals for Blue Bikes and Divvy Bikes 
+* Investigation into our collected bike data for the year of 2017 through to 2019
+* In particular trying to gain a better understanding of our clients habits
+* Cleansing, Wrangling and Analysis performed in MS Excel 
+
+![](images/question1_different_bike_users.png)
