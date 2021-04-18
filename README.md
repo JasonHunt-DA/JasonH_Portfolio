@@ -9,6 +9,8 @@ Data Analysis and Data Science projects undertaken whilst exploring the benefits
 * Source: Union of Concerned Scientists 2020, UCS Satellite Database, data file, viewed 02 December 2020, 
 (<https://www.ucsusa.org/resources/satellite-database#.VF_jIlPF8Wg>)
 
+[](https://github.com/JasonHunt-DA/JasonH_Portfolio/blob/main/images/which_sectors.jpg)
+
 # [Project 2: Australian Housing Data Wrangling](https://github.com/JasonHunt-DA/AustralianHousing_DataWrangling)
 * Practicing Data Wrangling technics on Australian Housing data
 * Checking to see if the data follows the principles of Tidy data
