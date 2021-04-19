@@ -7,8 +7,8 @@ Data Analysis and Data Science projects undertaken whilst exploring the benefits
 * Looking into breakdowns by purpose, ownership, markets sectors and main investors
 * Produced for Data visualisation and storytelling with open data
 * Using R language, Markdown,Flexdashboard and Rpubs to produce a visual dashboard
-* Source: Union of Concerned Scientists 2020, UCS Satellite Database, data file, viewed 02 December 2020, 
-(<https://www.ucsusa.org/resources/satellite-database#.VF_jIlPF8Wg>)
+* Source: Union of Concerned Scientists 2020, [UCS Satellite Database](<https://www.ucsusa.org/resources/satellite-database#.VF_jIlPF8Wg>), data file, viewed 02 December 2020 
+
 
 ![](/images/which_sectors.png)
 
